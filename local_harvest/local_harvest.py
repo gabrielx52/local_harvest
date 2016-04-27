@@ -38,6 +38,3 @@ def veg_param_editor(veggies='data/veg_data.txt'):
         veg = eval(infile.read())
         for row in veg:
             print(row, veg[row])
-
-
-veg_param_editor()

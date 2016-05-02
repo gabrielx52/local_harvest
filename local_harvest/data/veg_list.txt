@@ -1,201 +1,62 @@
 Artichoke
 Arugula
 Asparagus
-Avocado
-Bamboo Shoot
-Bean Sprout
-Adzuki Bean
-Anasazi Bean
-Black Bean
-Black Turtle Bean
-Black-Eyed Pea
-Borlotti Bean
-Cranberry Bean
-Cannellini Bean
-Corona Bean
-Fava Bean
-Broad Bean
-Flageolet Bean
-Garbanzo Bean
-Chickpea
-Great Northern Bean
-Kidney Bean
-Lentil
-Lima Bean
-Butter Bean
-Lupini Bean
-Marrow Bean
-Moth Bean
-Mung Bean
-Navy Bean
-Pigeon Pea
-Pink Bean
-Pinto Bean
-Red Bean
-Rice Bean
-Scarlet Runner Bean
-Soybean
-Spanish Tolosana Bean
-Split Pea
-Tepary Bean
-Urad
 Beet
 Belgian Endive
-Bitter Melon
-Bok Choy
 Broccoli
 Brussels Sprout
-Burdock Root
 Cabbage
-Savoy Cabbage
-Napa Cabbage
-Calabash
-Capers
 Carrot
-Cassava
-Yuca
 Cauliflower
 Celery
-Celery Root
-Celeriac
-Celtuce
-Chayote
-Chinese Broccoli
-Kai-lan
 Corn
 Cucumber
-English Cucumber
-Pickling Cucumber
-Daikon Radish
 Eggplant
-Elephant Garlic
 Endive
-Curly Endive
 Frisee
 Escarole
 Fennel
-Fiddlehead
-Galangal
 Garlic
-Ginger
 Green Bean
-String Bean
 Snap Bean
-Wax Bean
-Chinese Spinach
-Beet Green
 Collard Green
-Dandelion Green
-Kohlrabi Green
 Mustard Green
 Rapini
 Spinach
 Swiss Chard
-Turnip Green
-Hearts of Palm
-Horseradish
-Jerusalem Artichoke
-Sunchoke
-Jícama
 Kale
-Curly Kale
 Lacinato Kale
-Ornamental Kale
-Kohlrabi
 Leek
-Lemongrass
 Lettuce
-Butterhead
-Bibb
-Boston
-Iceberg
-Green Leaf
-Red Leaf
+Butter Lettuce
+Iceberg Lettuce
+Green Leaf Lettuce
+Red Leaf Lettuce
 Romaine
-Lotus Root
-Lotus Seed
-Mushrooms
-Chanterelle
-Crimini/Baby Bella
-Enoki
-Maitake
-Morel
-Oyster
-Porcini
-Portobello
-Royal Trumpet
-King Oyster
-Shiitake
-Truffle
-White Button
 Napa Cabbage
-Nopales
-Okra
-Olive
 Onion
 Green Onion
-Scallion
-Parsley
-Parsley Root
 Parsnip
 Pea
 Green Pea
 Snow Pea
 Sugar Snap Pea
-Hot Pepper
-Anaheim Pepper
-Banana Pepper
-Cayenne Pepper
-Cherry Pepper
-Fresno Pepper
-Habanero Pepper
-Hungarian Pepper
-Yellow Wax Pepper
-Jalapeno Pepper
-New Mexico Pepper
-Poblano Pepper
-Serrano Pepper
-Sport Pepper
-Thai Pepper
-Sweet Pepper
+Jalapeno
+Poblano
 Bell Pepper
-Cubanelle Pepper
-Pimento
-Sweet Banana Pepper
-Plantain
 Potato
-Pumpkin
-Purslane
 Radicchio
 Radish
 Rutabaga
 Shallot
 Spinach
-Squash
 Summer Squash
-Patty Pan Squash
-Yellow Squash
 Zucchini
-Winter Squash
 Acorn Squash
-Banana Squash
-Buttercup Squash
 Butternut Squash
-Cushaw Squash
 Delicata Squash
-Hubbard Squash
-Kabocha Squash
-Pumpkin
 Spaghetti Squash
-Turban Squash
 Sweet Potato
-Swiss Chard
-Taro
-Tomatillo
 Tomato
 Turnip
-Water Chestnut
-Water Spinach
-Watercress
-Winter Melon
 Yam

@@ -18,7 +18,7 @@ def local_info(zipcodes=local_zipcodes()):
         return [row for row in reader if row[0] in zipcodes]
 
 
-def veg_db_template(file='data_files/veg_list.txt'):
+def veg_db_template(file='data/veg_list.txt'):
     """ Use to create persistent dict of vegetables with
         parameters from text file of vegetables """
     plant_dict = {}
@@ -26,15 +26,11 @@ def veg_db_template(file='data_files/veg_list.txt'):
         vegs = f.read()
         listv = vegs.split('\n')
     for i in listv:
-        plant_dict[i] = {'Lower Max': None, 'Upper Max': None, 'Base Temp': None, 'Grow Zone': None,
-                         'Optimum range': None, 'Season': None, 'Grow Time': None}
-    with open('data_files/veg_data.txt', 'w') as outfile:
+        plant_dict[i] = {'Lower Max': None, 'Upper Max': None, 'Grow Zone': None,
+                         'Season': None, 'Grow Time': None, 'Sun': None}
+    with open('data/short_veg_data.txt', 'w') as outfile:
         outfile.write(str(plant_dict))
     return plant_dict
 
+veg_db_template()
 
-def veg_param_editor(veggies='data/veg_data.txt'):
-    with open(veggies, 'r+') as infile:
-        veg = eval(infile.read())
-        for row in veg:
-            print(row, veg[row])

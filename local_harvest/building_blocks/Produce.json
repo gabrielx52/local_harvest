@@ -1,0 +1,38 @@
+[
+  {
+    "model": "seasonal.produce",
+    "pk": 1,
+    "fields": {
+      "name": "Bell Pepper",
+      "ideal_temp_low": 70,
+      "ideal_temp_high": 85,
+      "growth_time": 75,
+      "grow_zone": [3, 4, 5, 6, 7, 8, 9],
+      "description": "A yellow fruit usually grown in tropical climates."
+    }
+  },
+  {
+    "model": "seasonal.produce",
+    "pk": 2,
+    "fields": {
+      "name": "Carrot",
+      "ideal_temp_low": 60,
+      "ideal_temp_high": 65,
+      "growth_time": 75,
+      "grow_zone": [3, 4, 5, 6, 7, 8, 9],
+      "description": "What's up Doc?."
+    }
+  },
+  {
+    "model": "seasonal.produce",
+    "pk": 3,
+    "fields": {
+      "name": "Broccoli",
+      "ideal_temp_low": 65,
+      "ideal_temp_high": 80,
+      "growth_time": 100,
+      "grow_zone": [3, 4, 5, 6, 7, 8],
+      "description": "An edible green plant in the cabbage family whose large flower-head is eaten as a vegetable."
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+        <p>
+            <strong>
+            <div id="city_state">
+                {{ starting_location }}
+            </div>
+            </strong>
+        </p>
+        <ul>
+                <h2>{{ zipcode }}</h2>
+                <br>
+                <h2>{{ distance }}</h2>
+                <br>
+                <h2>{{ produce }}</h2>
+                <br>
+                {{ zips_in_radius }}
+                <br>
+         </ul>
+{% endblock %}

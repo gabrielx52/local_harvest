@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% block content %}
+    <h1>Welcome to SeasonalSite</h1>
+    <p>This is a simple web app to track what produce is in season based on your location</p>
+    <form action="" method="get">
+        {% csrf_token %}
+        {{ form }}
+        <input type="submit" value="Submit" /><br>
+    </form>
+{% endblock %}

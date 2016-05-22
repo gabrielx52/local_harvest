@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+        <p>
+            
+            <div id="city_state">
+            <span id="city">{{ city }}</span>{{ state }}
+            </div>
+            
+            {{ zipcode }}
+        </p>
+        <br>
+            Grow zone(s): {{ grow_zone }}
+        <br>
+        <br>
+        <div id="underlined">
+            Produce capable of growth:
+        </div>
+        {% for i in proddy %}
+            {{i}}<br>
+        {% endfor %}
+        <br>
+        <a href="{% url 'home' %}">Return</a>
+{% endblock %}
